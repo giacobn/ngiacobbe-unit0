@@ -25,4 +25,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/JzHQQdtHaM.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Not having the duedate in the canvas calendar
+
+big issue was that cocopods seemed to break it. so I had to do without it
